@@ -6,8 +6,8 @@ type Msg = { role: "user" | "assistant"; content: string };
 // User data for personalized responses
 const userData = {
   name: "",
-  fullName: "",
-  role: "",
+  fullName: "bibian",
+  role: "player",
   skills: [
     " ", " ", " ", " ", " ", 
   ],
@@ -27,7 +27,7 @@ const userData = {
     " "
   ],
   contact: {
-    email: "your.email@example.com",
+    email: "stepup2297@gmail.com",
     phone: "+66 XX XXX XXXX",
     website: " ",
     github: " ",
